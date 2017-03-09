@@ -1,0 +1,1 @@
+﻿select count(*) from RAINFALL_000_DataTakeOn.dbo.r_RainFallDublin; 

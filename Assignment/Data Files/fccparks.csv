@@ -1,0 +1,48 @@
+ParkID,Name,Address1,Address2,Address3,Phone,Email,Website,Type,Parking,Bicycle_Parking,Toilets,LA_ID
+1,Ardgillan Demesne,Balbriggan,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/ArdgillanDemesneRegionalPark/,Regional,Yes,Yes,Yes,1
+2,Balheary Park,Balheary Road,Swords,Co. Dublin,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+3,Carpenterstown Park,Carpenterstown,Dublin 15,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,,,No,1
+4,Carrickhill Park,Portmarnock,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,Yes,,No,1
+5,Malahide Demesne,Malahide,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/MalahideDemesneRegionalPark/,Regional,Yes,,Yes,1
+6,Millennium Park,Blanchardstown,Dublin 15,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Regional,Yes,Yes,Yes,1
+7,Newbridge Demense,Hearse Road,Donabate,Co. Dublin,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/NewbridgeDemesneRegionalPark/,Regional,Yes,Yes,Yes,1
+8,Porterstown Park,Luttrellstown Road,Porterstown,Dublin 15,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,Yes,No,,1
+9,Santry Demense,Swords Road,Santry,Dublin 9,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Regional,Yes,,Yes,1
+10,Seagrange Park,Grange Road,Baldoyle,Dublin 13,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+11,Skerries Town Park &,Skerries,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,Yes,Yes,Yes,1
+12,St. Catherine's Estate,Rush,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+13,St. Catherines Liffey Valley,Co. Dublin,,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Regional,Yes,No,No,1
+14,St. Molagga's Park,Balbriggan,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Regional,Yes,No,No,1
+15,Swords Town Park,Swords,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/WardRiverValleyRegionalPark/,Regional,No,No,No,1
+16,Tolka Valley,Blanchardstown,Dublin 15,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/TolkaValleyRegionalPark/,Regional,,,,1
+17,The Glebe,Balrothery,Co. Dubliin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,Yes,No,No,1
+18,Turvey Nature Reserve,Turvey Road,Donabate,Co. Dublin,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Nature,Yes,No,No,1
+19,Ward River Valley Park,Swords,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/WardRiverValleyRegionalPark/,Regional,No,No,No,1
+20,Red Island & South Strand,Skerries,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Local,Yes,Yes,Yes,1
+21,Robswalls,Malahide,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/Hood,Yes,No,No,1
+22,The Sea Banks,Malahide,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Local,Yes,No,Yes,1
+23,Kingfisher Site Nature Reserve,Portmarnock,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Nature,No,No,No,1
+24,Howth Seafront,Howth,Dublin 13,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Local,Yes,,Yes,1
+25,Sea Banks,Balbriggan,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Local,Yes,,Yes,1
+26,Broadmeadow Estuary,Malahide,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,Local,Yes,No,No,1
+27,Old Yellow Walls Rd,Malahide,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/Hood,No,No,No,1
+28,Balbriggan Town Park,Balbriggan,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/Hood,No,No,No,1
+29,Balheary Reservoir,Swords,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,Yes,No,No,1
+30,Ballast Pit,Skerries,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+31,Ballheary - Castlefarm,Swords,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+32,Beverton Drive,Donabate,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+33,Broomfield,Malahide,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,Yes,No,No,1
+34,Corduff Park,Corduff,Blanchardstown,Dublin 15,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+35,Danny's Pitch,Blanchardstown,Dublin 15,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+36,Elmwood Open Space,Brackenstown,Swords,Co. Dublin,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+37,Hartstown Park,Hartstown,Dublin 15,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+38,Hazelbury,Castaheaney,Dublin 15,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+39,Holywell Park,Swords,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+40,Lady's Well Park,Ladyswell,Mulhuddart,Dublin 15,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+41,Lanesborough Park,Lanesborough,Dublin 11,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+42,Mourne Park,Skerries,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+43,Rivermeade,St. Margarets,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+44,Orlynn Park,Lusk,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+45,Seabury Gardens,Malahide,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+46,Parklands,Castleknock,Dublin 15,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1
+47,Rathingle Park,Swords,Co. Dublin,,+353 1 8905629,parks@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Parks/ParksHeritageProperties/,N/hood,No,No,No,1

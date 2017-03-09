@@ -1,0 +1,11 @@
+Library_ID,Name,Address1,Address2,Address3,Phone,Email,Website,Internet,WiFi,SelfService,LA_ID
+1,Balbriggan Library,George's Square,Balbriggan,Co Dublin,+353 1 8704401 / +353 1 8704402,balbrigganlibrary@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/BalbrigganLibrary/,Yes,Yes,Yes,1
+2,Baldoyle Public Library,Strand Road,Baldoyle,Dublin 13,+353 1 8906793,baldoylelibrary@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/BaldoyleLibrary/,Yes,,,1
+3,Blanchardstown Library,Civic Centre,Blanchardstown,Dublin 15,+353 1 8905560 / +353 1 8905563,blanchlib@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/BlanchardstownLibrary/,Yes,Yes,Yes,1
+4,Garristown Library,Main Street,Garristown,Co. Dublin,+353 1 8355020,garristownlibrary@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/GarristownLibrary/,Yes,,,1
+5,Howth Public Library,Main Street,Howth,Dublin 13,+353 1 8322130 ,howthlibrary@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/HowthLibrary/,Yes,,,1
+6,Local Studies & Archive Service,Clonmel House,Forster Way,Swords,+353 1 8704486 / +353 1 8704495 / +353 1 8704496,local.studies@fingalcoco.ie archives@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/,,,,1
+7,Malahide Library,Main Street,Malahide,Co. Dublin,+353 1 8704430 / +353 1 8704431,malahidelibrary@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/MalahideLibrary/,Yes,Yes,Yes,1
+8,Rush Library,Chapel Green,Rush,Co. Dublin,+353 1 8708414,rushlibrary@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/RushLibrary/,Yes,Yes,Yes,1
+9,Skerries Library,Strand Street,Skerries,Co. Dublin,+353 1 8491900,skerrieslibrary@fingalcoco.ie,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/SkerriesLibrary/,Yes,,,1
+10,Swords Library,Swords Shopping Centre,Rathbeale Road,Swords,+353 1 8404179,swordslibrary@fingalcoco.ie ,http://www.fingalcoco.ie/CommunityRecreationandAmenitiesDepartment/Library/LibraryBranches/SwordsLibrary/,Yes,,,1
